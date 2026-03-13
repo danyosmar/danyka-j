@@ -1,0 +1,49 @@
+##ESTRUTURAS DE DECISÃO:
+
+# chover=true
+# rafa_presenca=false
+# else:
+# rafa_presenca=true
+# ifplacar_/time2ganhou!
+# resultado
+a=10
+b=5
+print("soma:\n",a + b)
+print("Multiplicação:",a*b)
+print("subtração:",a-b)
+print("Divisão:",a/b)
+
+
+
+primeiro_nome="Maria"
+sobrenome="silva"
+nome_completo=primeiro_nome+" "+sobrenome
+print(f"o tipo armanezado na variável 'primeiro_nome' é {type(primeiro_nome)}")
+
+x=21
+y=30
+print("x é maior que y?",x > y)
+
+frase = "Python é divertido"
+print(frase.upper())
+nova_frase = frase.replace("divertido","poderoso")
+print(nova_frase)
+
+contador = 0
+contador += 5 #
+contador=contador+5 #<<<<< INCREMENTO
+# contador -= 2 # contador=contador-2
+# contador *= 3 # contador=contador*3
+
+a = 10
+b = 20
+c = 30
+media = (a +b + c) / 3
+print("média:", media)
+
+
+#nota = int(input("nota:"))
+#print(nota)
+
+
+
